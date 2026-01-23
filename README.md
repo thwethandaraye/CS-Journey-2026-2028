@@ -77,11 +77,4 @@ This repo is for:
 - Programming logic
 - Git & GitHub
 
-## 📂 Repository Structure
-
-- courses/
-- notes/
-- mini-projects/
-- reflections/
-
 Thanks for visiting! 💚💚
