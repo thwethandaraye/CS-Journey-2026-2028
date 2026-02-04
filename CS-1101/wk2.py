@@ -29,3 +29,44 @@ get_home_hour = end_time // 60
 get_home_minute = end_time % 60
 arrive_time = str(int(get_home_hour)) + ":" + str(int(get_home_minute)) + " am"
 print(arrive_time)
+
+# Exercise 3.1. Write a function named right_justify that takes a string named s as a parameter
+# and prints the string with enough leading spaces so that the last letter of the string is in column 70
+# of the display.
+# Hint: Use string concatenation and repetition. Also, Python provides a built-in function called len
+# that returns the length of a string, so the value of len('monty') is 5.
+
+def right_justify(s):
+    spaces = 70 - len(s)
+    print(" " * spaces + s)
+
+right_justify("monty")
+
+# Exercise 3.2. A function object is a value you can assign to a variable or pass as an argument. For
+# example, do_twice is a function that takes a function object as an argument and calls it twice:
+
+def do_twice(f):
+    f()
+    f()
+
+def print_name():
+    print("your name")
+
+do_twice(print_name)
+
+# Exercise 3.3, 1.
+
+line1 = "+" + "- " * 4 + "+" + "- " * 4 + "+"
+line2 = "|" + "  " * 4 + "|" + "  " * 4 + "|"
+
+print(line1)
+print(line2)
+print(line2)
+print(line2)
+print(line2)
+print(line1)
+print(line2)
+print(line2)
+print(line2)
+print(line2)
+print(line1)
