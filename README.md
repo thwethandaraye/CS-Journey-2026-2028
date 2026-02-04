@@ -2,7 +2,7 @@
 
 Hi! 👋  
 I am a Computer Science student at **University of the People (UoPeople)**.  
-This repository documents my **learning journey, notes, and projects** throughout my CS degree.
+This repository documents my **learning journey and projects** throughout my CS degree.
 
 📍 Start date: Jan 29 2026  
 🎯 Career goal: Backend Engineer
@@ -12,10 +12,8 @@ This repository documents my **learning journey, notes, and projects** throughou
 ## 📚 About This Repository
 
 This repo is for:
-- Course notes (written by me)
 - Assignments & mini-projects
 - Practice exercises
-- Reflections on what I learn
 
 ⚠️ This repository does **not** include exam questions or copyrighted materials.
 
