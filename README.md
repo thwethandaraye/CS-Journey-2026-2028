@@ -34,8 +34,8 @@ All graded coursework is not shared publicly and remains confidential, in full c
 
 | Course Code | Course Name | Status |
 |------------|-------------|--------|
-| CS1101 | Programming Fundamentals | In Progress |
-| CS1111 | Introduction to Computer Science | Not Started |
+| CS1101 | Programming Fundamentals | Finished |
+| CS1111 | Introduction to Computer Science | In Progress |
 | CS1102 | Programming 1 | Not Started |
 | CS1103 | Programming 2 | Not Started |
 | CS1105 | Digital Electronics & Computer Architecture | Not Started |
@@ -64,8 +64,8 @@ All graded coursework is not shared publicly and remains confidential, in full c
 
 | Course Code | Course Name | Status |
 |------------|-------------|--------|
-| UNIV1001 | Online Education Strategies | In Progress |
-| ENGL1102 | English Composition 2 | Not Started |
+| UNIV1001 | Online Education Strategies | Finished |
+| ENGL1102 | English Composition 2 | In Progress |
 | MATH1201 | College Algebra | Not Started |
 | MATH1280 | Introductiion to Statistics | Not Started |
 | COM2001 | Professional Communications | Not Started |
