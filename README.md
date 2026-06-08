@@ -35,10 +35,10 @@ All graded coursework is not shared publicly and remains confidential, in full c
 | Course Code | Course Name | Status |
 |------------|-------------|--------|
 | CS1101 | Programming Fundamentals | Finished |
-| CS1111 | Introduction to Computer Science | In Progress |
-| CS1102 | Programming 1 | Not Started |
+| CS1111 | Introduction to Computer Science | Finished |
+| CS1102 | Programming 1 | In Progress |
 | CS1103 | Programming 2 | Not Started |
-| CS1105 | Digital Electronics & Computer Architecture | Not Started |
+| CS1105 | Digital Electronics & Computer Architecture | In Progress |
 | CS2203 | Database 1 | Not Started |
 | CS2204 | Communications and Networking | Not Started |
 | CS2205 | Web Programming 1 | Not Started |
@@ -65,19 +65,19 @@ All graded coursework is not shared publicly and remains confidential, in full c
 | Course Code | Course Name | Status |
 |------------|-------------|--------|
 | UNIV1001 | Online Education Strategies | Finished |
-| ENGL1102 | English Composition 2 | In Progress |
-| MATH1201 | College Algebra | Not Started |
+| ENGL1102 | English Composition 2 | Finished |
+| MATH1201 | College Algebra | In Progress |
 | MATH1280 | Introductiion to Statistics | Not Started |
 | COM2001 | Professional Communications | Not Started |
 | MATH1211 | Calculus | Not Started |
 | MATH1302 | Decretet Mathematics | Not Started |
-| ECON1580 | Introduction to Economics | Not Started |
-| PHIL1404 | Ethics and Social Responsibility | Not Started |
+| ECON1580 | Applied Economics: Theory and Practice | Finished |
+| PHIL1404 | Ethics and Social Responsibility | In Progress |
 | BIOL1301 | Introduction to Biology | Not Started |
 | AHIST1401 | Art History | Not Started |
 | HIST1421 | Greek and Roman Civilization | Not Started |
 | PHIL1402 | Introduction to Philosophy | Not Started |
-| POLS1503 | Globalization | Not Started |
+| POLS1503 | Introduction to Psychology | Not Started |
 | ENVS1301 | Introduction to Environmental Science | Not Started |
 
 ## 🛠 Skills Learned So Far
