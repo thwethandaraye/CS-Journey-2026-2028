@@ -32,9 +32,9 @@ preparation rather than specific coursework submissions.
 ---
 
 ## 🚀 Future Focus Areas
-- Backend development
+- Data Analytic
 - Databases and data modeling
-- System design basics
+- Data Visualization
 - Interview preparation (DSA, problem-solving)
 
 ---
