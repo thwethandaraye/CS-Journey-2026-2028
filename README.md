@@ -36,11 +36,11 @@ All graded coursework is not shared publicly and remains confidential, in full c
 |------------|-------------|--------|
 | CS1101 | Programming Fundamentals | Finished |
 | CS1111 | Introduction to Computer Science | Finished |
-| CS1102 | Programming 1 | In Progress |
-| CS1103 | Programming 2 | Not Started |
-| CS1105 | Digital Electronics & Computer Architecture | In Progress |
-| CS2203 | Database 1 | Not Started |
-| CS2204 | Communications and Networking | Not Started |
+| CS1102 | Programming 1 | Finished |
+| CS1103 | Programming 2 | In Progress |
+| CS1105 | Digital Electronics & Computer Architecture | Finished |
+| CS2203 | Database 1 | In Progress |
+| CS2204 | Communications and Networking | In Progress |
 | CS2205 | Web Programming 1 | Not Started |
 | CS2301 | Operation Systems 1 | Not Started |
 | CS2401 | Software Engineering 1 | Not Started |
@@ -55,24 +55,28 @@ All graded coursework is not shared publicly and remains confidential, in full c
 | CS4402 | Comparative Programming Languages | Not Started |
 | CS4403 | Software Engineering 2 | Not Started |
 | CS4404 | Advanced Networking and Data Security | Not Started |
-| CS4405 | Mobile Applications | Not Started |
-| CS4406 | Computer Graphics | Not Started |
 | CS4407 | Data Mining and Machine Learning | Not Started |
 | CS4408 | Artificial Intelligence | Not Started |
 
-## 📘 General Education Courses
+### Mathematics Courses
+
+| Course Code | Course Name | Status | Grade |
+|-------------|-------------|--------|-------|
+| MATH1201 | College | Finished | 93 |
+
+### 📘 General Education Courses
 
 | Course Code | Course Name | Status |
 |------------|-------------|--------|
 | UNIV1001 | Online Education Strategies | Finished |
 | ENGL1102 | English Composition 2 | Finished |
-| MATH1201 | College Algebra | In Progress |
-| MATH1280 | Introductiion to Statistics | Not Started |
+| MATH1201 | College Algebra | Finished |
+| MATH1280 | Introductiion to Statistics | In Progress |
 | COM2001 | Professional Communications | Not Started |
 | MATH1211 | Calculus | Not Started |
 | MATH1302 | Decretet Mathematics | Not Started |
 | ECON1580 | Applied Economics: Theory and Practice | Finished |
-| PHIL1404 | Ethics and Social Responsibility | In Progress |
+| PHIL1404 | Ethics and Social Responsibility | Finished |
 | BIOL1301 | Introduction to Biology | Not Started |
 | AHIST1401 | Art History | Not Started |
 | HIST1421 | Greek and Roman Civilization | Not Started |
