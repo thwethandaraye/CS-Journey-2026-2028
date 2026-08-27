@@ -2,7 +2,7 @@
 
 Hi! 👋  
 I am a Computer Science student at **University of the People (UoPeople)**.  
-This repository documents my learning journey, progress tracking, and independent practice throughout my CS degree.
+This repository documents my learning journey and progress tracking throughout my CS degree.
 
 📍 Start date: Jan 29 2026  
 
@@ -10,88 +10,71 @@ This repository documents my learning journey, progress tracking, and independen
 
 ## 📚 About This Repository
 
-This repository is used to:
-
-- Track my academic and skill development progress
-- Document learning goals and reflections at a high level
-- Store independent practice work created outside of graded coursework
-
-⚠️ Academic Integrity Notice
-
-This repository does not contain:
-
-- Assignments, quizzes, exams, or projects submitted for grading
-- Discussion posts or written responses from UoPeople courses
-- Course materials, slides, or textbooks
-- Any work created by other students
-
-All graded coursework is not shared publicly and remains confidential, in full compliance with University of the People’s academic integrity and sharing policies.
-
+This repository is used to track my academic progress.
 
 ## 🧠 Courses
 
-### Computer Science Courses
+### Computer Science Courses ( 16 Courses )
 
-| Course Code | Course Name | Status |
-|------------|-------------|--------|
-| CS1101 | Programming Fundamentals | Finished |
-| CS1111 | Introduction to Computer Science | Finished |
-| CS1102 | Programming 1 | Finished |
-| CS1103 | Programming 2 | In Progress |
-| CS1105 | Digital Electronics & Computer Architecture | Finished |
-| CS2203 | Database 1 | In Progress |
-| CS2204 | Communications and Networking | In Progress |
-| CS2205 | Web Programming 1 | Not Started |
-| CS2301 | Operation Systems 1 | Not Started |
-| CS2401 | Software Engineering 1 | Not Started |
-| CS3303 | Data Structures | Not Started |
-| CS3304 | Analysis of Algorithms | Not Started |
-| CS3305 | Web Programming 2 | Not Started |
-| CS3306 | Database 2 | Not Started |
-| CS3307 | Operation Systems 2 | Not Started |
-| CS3308 | Information Retrieval | Not Started |
-| CS3340 | Systems and Application Security | Not Started |
-| CS3440 | Big Data | Not Started |
-| CS4402 | Comparative Programming Languages | Not Started |
-| CS4403 | Software Engineering 2 | Not Started |
-| CS4404 | Advanced Networking and Data Security | Not Started |
-| CS4407 | Data Mining and Machine Learning | Not Started |
-| CS4408 | Artificial Intelligence | Not Started |
+| Course Code | Course Name | Status | Grade |
+|------------|-------------|--------|--------|
+| CS1101 | Programming Fundamentals | Finished | 98 |
+| CS1111 | Introduction to Computer Science | Finished | 99 |
+| CS1102 | Programming 1 | Finished | 99 |
+| CS1103 | Programming 2 | In Progress | - |
+| CS1105 | Digital Electronics & Computer Architecture | Finished | 95 |
+| CS2203 | Database 1 | In Progress | - |
+| CS2204 | Communications and Networking | In Progress | - |
+| CS2205 | Web Programming 1 | Not Started | - |
+| CS2301 | Operation Systems 1 | Not Started | - |
+| CS2401 | Software Engineering 1 | Not Started | - |
+| CS3303 | Data Structures | Not Started | - |
+| CS3305 | Web Programming 2 | Not Started | - |
+| CS3306 | Database 2 | Not Started | - |
+| CS3307 | Operation Systems 2 | Not Started | - |
+| CS4402 | Comparative Programming Languages | Not Started | - |
+| CS4407 | Data Mining and Machine Learning | Not Started | - |
 
-### Mathematics Courses
+### Elective Courses ( 10 Courses )
 
 | Course Code | Course Name | Status | Grade |
 |-------------|-------------|--------|-------|
-| MATH1201 | College | Finished | 93 |
+| CS3304 | Analysis of Algorithms | Not Started | - |
+| MATH1281 | Statistical Inference | Not Started | - |
+| CS3308 | Information Retrieval | Not Started | - |
+| CS3340 | Systems and Application Security | Not Started | - |
+| CS3440 | Big Data | Not Started | - |
+| CS4403 | Software Engineering 2 | Not Started | - |
+| CS4404 | Advanced Networking and Data Security | Not Started | - |
+| CS4408 | Artificial Intelligence | Not Started | - |
+| - | - | Not Started | - |
+| - | - | Not Started | - |
 
-### 📘 General Education Courses
+### Mathematics Courses ( 4 Courses )
 
-| Course Code | Course Name | Status |
-|------------|-------------|--------|
-| UNIV1001 | Online Education Strategies | Finished |
-| ENGL1102 | English Composition 2 | Finished |
-| MATH1201 | College Algebra | Finished |
-| MATH1280 | Introductiion to Statistics | In Progress |
-| COM2001 | Professional Communications | Not Started |
-| MATH1211 | Calculus | Not Started |
-| MATH1302 | Decretet Mathematics | Not Started |
-| ECON1580 | Applied Economics: Theory and Practice | Finished |
-| PHIL1404 | Ethics and Social Responsibility | Finished |
-| BIOL1301 | Introduction to Biology | Not Started |
-| AHIST1401 | Art History | Not Started |
-| HIST1421 | Greek and Roman Civilization | Not Started |
-| PHIL1402 | Introduction to Philosophy | Not Started |
-| POLS1503 | Introduction to Psychology | Not Started |
-| ENVS1301 | Introduction to Environmental Science | Not Started |
+| Course Code | Course Name | Status | Grade |
+|-------------|-------------|--------|-------|
+| MATH1201 | College Algebra | Finished | 93 |
+| MATH1280 | Introduction to Statistics | In Progress | - |
+| MATH1211 | Calculus | Not Started | - |
+| MATH1302 | Discrete Mathematics | Not Started | - |
 
-## 🛠 Skills Learned So Far
-- Python basics
-- Logical thinking and problem-solving
-- Basic programming concepts
-- Git & GitHub version control
-- Learning how to think like a computer scientist
+### 📘 General Education Courses ( 10 Courses )
 
-🌱 Ongoing Philosophy
+| Course Code | Course Name | Status | Grade |
+|-------------|-------------|--------|-------|
+| UNIV1001 | Online Education Strategies | Finished | 98 |
+| ENGL1102 | English Composition 2 | Finished | 100 |
+| COM2001 | Professional Communications | Not Started | - |
+| ECON1580 | Applied Economics: Theory and Practice | Finished | 92 |
+| PHIL1404 | Introduction to Global Ethics | Finished | 99 |
+| ENVS1301 | Introduction to Environmental Science | Not Started | - |
+| AHIST1401 | Art History | Not Started | - |
+| HIST1421 | Greek and Roman Civilization | Not Started | - |
+| PHIL1402 | Introduction to Philosophy | Not Started | - |
+| POLS1503 | Introduction to Psychology | Not Started | - |
+
+## 🌱 Ongoing Philosophy
 
 This repository reflects learning, not perfection.
 It will grow and evolve as my knowledge and skills improve over time.
